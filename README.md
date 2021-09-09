@@ -4,4 +4,4 @@
 
 # MY TANBOTS LIFF-APP
  
-# https://line://app/1626602314-Vrp0l7Ae
+# https://liff.line.me/1626602314-Vrp0l7Ae
