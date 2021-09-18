@@ -200,9 +200,8 @@ a.bttn:focus {
   right: 0;
   opacity: 1;
 }
-\\\
-    Line wrap
+\\\* Line wrap
     <!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><title>LINE Developers</title><link rel=icon href=/console/favicon.ico><link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel=stylesheet><link href=https://static.line-scdn.net/laicon/edge/3.5/laicon.min.css rel=stylesheet><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css><style>/* don't overlap Statuspage popup with modals */
      iframe {
      z-index: 99 !important;
-     }</style><link href=/console/css/app.1592f61b.css rel=preload as=style><link href=/console/css/chunk-vendors.84572e59.css rel=preload as=style><link href=/console/js/app.beffdbb8.js rel=preload as=script><link href=/console/js/chunk-vendors.5a52aa42.js rel=preload as=script><link href=/console/css/chunk-vendors.84572e59.css rel=stylesheet><link href=/console/css/app.1592f61b.css rel=stylesheet></head><body><noscript><strong>We're sorry but devcenter-console doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=https://jncpmz37bpzt.statuspage.io/embed/script.js></script><script src=/console/js/chunk-vendors.5a52aa42.js></script><script src=/console/js/app.beffdbb8.js></script></body></html>
+\\\* }</style><link href=/console/css/app.1592f61b.css rel=preload as=style><link href=/console/css/chunk-vendors.84572e59.css rel=preload as=style><link href=/console/js/app.beffdbb8.js rel=preload as=script><link href=/console/js/chunk-vendors.5a52aa42.js rel=preload as=script><link href=/console/css/chunk-vendors.84572e59.css rel=stylesheet><link href=/console/css/app.1592f61b.css rel=stylesheet></head><body><noscript><strong>We're sorry but devcenter-console doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=https://jncpmz37bpzt.statuspage.io/embed/script.js></script><script src=/console/js/chunk-vendors.5a52aa42.js></script><script src=/console/js/app.beffdbb8.js></script></body></html>
