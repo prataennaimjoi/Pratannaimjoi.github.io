@@ -253,3 +253,53 @@
     }
   ]
 }
+{
+  "type": "bubble",
+  "styles": {
+    "header": {
+      "backgroundColor": "#ffaaaa"
+    },
+    "body": {
+      "backgroundColor": "#aaffaa"
+    },
+    "footer": {
+      "backgroundColor": "#aaaaff"
+    }
+  },
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
+        "text": "header"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://example.com/flex/images/image.jpg",
+    "size": "full",
+    "aspectRatio": "2:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
+        "text": "body"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
+        "text": "footer"
+      }
+    ]
+  }
+}
