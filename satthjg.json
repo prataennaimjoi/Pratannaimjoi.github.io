@@ -116,7 +116,7 @@
                     "total": 2
                 }
             },
-            "timestamp": 1627356924722,
+            "timestamp": 1626556804,
             "source": {
                 "type": "user",
                 "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -125,4 +125,29 @@
             "mode": "active"
         }
     ]
+}
+{
+  "destination": "xxxxxxxxxx",
+  "events": [
+    {
+      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "type": "message",
+      "mode": "active",
+      "timestamp": 1626556804,
+      "source": {
+        "type": "user",
+        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+      },
+      "message": {
+        "id": "325708",
+        "type": "video",
+        "duration": 60000,
+        "contentProvider": {
+          "type": "external",
+          "originalContentUrl": "https://example.com/original.mp4",
+          "previewImageUrl": "https://example.com/preview.jpg"
+        }
+      }
+    }
+  ]
 }
