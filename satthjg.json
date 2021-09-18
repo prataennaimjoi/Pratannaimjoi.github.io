@@ -1,62 +1,29 @@
 {
-  "type": "carousel",
-  "contents": [
+  "destination": "xxxxxxxx",
+  "events": [
     {
-      "type": "bubble",
-      "body": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "text",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "wrap": true
-          }
-        ]
+      "replyToken": "0f3779fba3b349968c5d07db31eab56f",
+      "type": "message",
+      "mode": "active",
+      "timestamp": 1626556804,
+      "source": {
+        "type": "user",
+        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
       },
-      "footer": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "style": "primary",
-            "action": {
-              "type": "uri",
-              "label": "Go",
-              "uri": "https://example.com"
-            }
-          }
-        ]
+      "message": {
+        "id": "325708",
+        "type": "text",
+        "text": "Hello, world"
       }
     },
     {
-      "type": "bubble",
-      "body": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "text",
-            "text": "Hello, World!",
-            "wrap": true
-          }
-        ]
-      },
-      "footer": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "style": "primary",
-            "action": {
-              "type": "uri",
-              "label": "Go",
-              "uri": "https://example.com"
-            }
-          }
-        ]
+      "replyToken": "8cf9239d56244f4197887e939187e19e",
+      "type": "follow",
+      "mode": "active",
+      "timestamp": 1626556804,
+      "source": {
+        "type": "user",
+        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
       }
     }
   ]
