@@ -4,7 +4,7 @@
   type => text
   text => your text
 {
-line://app/1626602314-Vrp0l7Ae?type=image&img=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/1605231174170.jpg
+line://app/1626602314-Vrp0l7Ae?type=image&img=https://developers.line.biz/console/favicon.ico
 {
  type => image
  img => Link (must be HTTPS)
@@ -13,7 +13,7 @@ line://app/1626602314-Vrp0l7Ae?type=image&img=https://github.com/prataennaimjoi/
 {
   With Animation:
   line://app/1626602314-Vrp0l7Ae?type=sticker&stk=anim&sid=32128231&pkg=3099312
-{
+
   No Animation:
   line://app/1626602314-Vrp0l7Ae?type=sticker&stk=noanim&sid=32128231&pkg=3099312
 
