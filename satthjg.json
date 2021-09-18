@@ -5,7 +5,7 @@
       "replyToken": "0f3779fba3b349968c5d07db31eab56f",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1626602314,
       "source": {
         "type": "user",
         "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -20,7 +20,7 @@
       "replyToken": "8cf9239d56244f4197887e939187e19e",
       "type": "follow",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1626602314,
       "source": {
         "type": "user",
         "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -39,7 +39,7 @@
       "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1626602314,
       "source": {
         "type": "user",
         "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -86,7 +86,7 @@
                     "total": 2
                 }
             },
-            "timestamp": 1626556804,
+            "timestamp": 1626602314,
             "source": {
                 "type": "user",
                 "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -103,7 +103,7 @@
       "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1626602314,
       "source": {
         "type": "user",
         "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -128,7 +128,7 @@
       "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1626602314,
       "source": {
         "type": "user",
         "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
@@ -140,6 +140,29 @@
         "contentProvider": {
           "type": "line://app/1626602314-Vrp0l7Ae?type=profile"
         }
+      }
+    }
+  ]
+}
+{
+  "destination": "xxxxxxxxxx",
+  "events": [
+    {
+      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "type": "message",
+      "mode": "active",
+      "timestamp": 1626602314,
+      "source": {
+        "type": "user",
+        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+      },
+      "message": {
+        "type": "sticker",
+        "id": "1501597916",
+        "stickerId": "52002738",
+        "packageId": "11537",
+        "stickerResourceType": "ANIMATION",
+        "keywords": ["cony","sally","Staring","hi","whatsup","line","howdy","HEY","Peeking","wave","peek","Hello","yo","greetings"]
       }
     }
   ]
