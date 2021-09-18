@@ -37,7 +37,7 @@ body {
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
     margin: 1px 1px;
-    -webkit-transition-duration: 0.4s; /* Safari */
+    -webkit-transition-duration: 0.4s;https://static.line-scdn.net/laicon/edge/3.5/laicon.min.css /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
 }
@@ -137,7 +137,7 @@ body {
     top:10px;
 }
 
-@import "content://com.coloros.filemanager.fileprovider/root/storage/emulated/0/Download/view-source_https___developers.line.biz_console_ch/view-source_https___developers.line.biz_console_channel_1626602314_basics.html";
+@import "https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css";
 *,
 *::before,
 *::after {
