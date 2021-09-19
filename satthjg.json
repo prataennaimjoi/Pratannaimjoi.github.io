@@ -1,14 +1,14 @@
 {
-  "destination": "xxxxxxxx",
+  "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "0f3779fba3b349968c5d07db31eab56f",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
       },
       "message": {
         "id": "325708",
@@ -17,37 +17,37 @@
       }
     },
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "8cf9239d56244f4197887e939187e19e",
       "type": "follow",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
       }
     }
   ]
 }
 "source": {
     "type": "user",
-    "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+    "userId": "U4af4980629..."
   }
 {
   "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
       },
       "message": {
-        "id": "Your%20Text",
+        "id": "325708",
         "type": "text",
-        "text": "line://app/1626602314-Vrp0l7Ae?type=text&text=Your%20Text)",
+        "text": "@example Hello, world! (love)",
         "emojis": [
           {
             "index": 23,
@@ -61,7 +61,7 @@
             {
               "index": 0,
               "length": 8,
-              "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+              "userId": "U850014438e..."
             }
           ]
         }
@@ -69,16 +69,17 @@
     }
   ]
 }
+// When two images are sent simultaneously (First image)
 {
     "destination": "xxxxxxxxxx",
     "events": [
         {
             "type": "message",
             "message": {
-                "type": "line://app/1626602314-Vrp0l7Ae?type=image&img=https://wallpaperstudio10.com/static/wpdb/wallpapers/1000x563/168891.jpg",
+                "type": "image",
                 "id": "354718705033693859",
                 "contentProvider": {
-                    "type": "line://app/1626602314-Vrp0l7Ae?type=profile"
+                    "type": "line"
                 },
                 "imageSet": {
                     "id": "E005D41A7288F41B65593ED38FF6E9834B046AB36A37921A56BC236F13A91855",
@@ -86,12 +87,41 @@
                     "total": 2
                 }
             },
-            "timestamp": 1626602314,
+            "timestamp": 1627356924513,
             "source": {
                 "type": "user",
-                "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+                "userId": "U4af4980629..."
             },
-            "replyToken": "7a6f780a-ceae-471d-a19a-3de7e4cd5d2a",
+            "replyToken": "7840b71058e24a5d91f9b5726c7512c9",
+            "mode": "active"
+        }
+    ]
+}
+
+// When two images are sent simultaneously (Second image)
+{
+    "destination": "xxxxxxxxxx",
+    "events": [
+        {
+            "type": "message",
+            "message": {
+                "type": "image",
+                "id": "354718705033693861",
+                "contentProvider": {
+                    "type": "line"
+                },
+                "imageSet": {
+                    "id": "E005D41A7288F41B65593ED38FF6E9834B046AB36A37921A56BC236F13A91855",
+                    "index": 2,
+                    "total": 2
+                }
+            },
+            "timestamp": 1627356924722,
+            "source": {
+                "type": "user",
+                "userId": "U4af4980629..."
+            },
+            "replyToken": "fbf94e269485410da6b7e3a5e33283e8",
             "mode": "active"
         }
     ]
@@ -100,13 +130,13 @@
   "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
-        "type": "line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://tinyurl.com/y8og3or5&piu=https://images6.alphacoders.com/710/thumb-350-710132.png",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "type": "user",
+        "userId": "U4af4980629..."
       },
       "message": {
         "id": "325708",
@@ -125,20 +155,20 @@
   "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
       },
       "message": {
         "id": "325708",
-        "type": "line://app/1626602314-Vrp0l7Ae?type=audio&link=https://platelets.fun/public/sounds/music.mp3",
+        "type": "audio",
         "duration": 60000,
         "contentProvider": {
-          "type": "line://app/1626602314-Vrp0l7Ae?type=profile"
+          "type": "line"
         }
       }
     }
@@ -148,19 +178,19 @@
   "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626602314,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
       },
       "message": {
-        "type": "line://app/1626602314-Vrp0l7Ae?type=sticker&stk=anim&sid=32128231&pkg=3099312",
-        "id": "1626602314",
-        "stickerId": "32128231&pkg=3099312",
-        "packageId": "32128231&pkg=3099312",
+        "type": "sticker",
+        "id": "1501597916",
+        "stickerId": "52002738",
+        "packageId": "11537",
         "stickerResourceType": "ANIMATION",
         "keywords": ["cony","sally","Staring","hi","whatsup","line","howdy","HEY","Peeking","wave","peek","Hello","yo","greetings"]
       }
@@ -171,13 +201,34 @@
   "destination": "xxxxxxxxxx",
   "events": [
     {
-      "replyToken": "UqDG1qwjuufwlwI7kVmshsT96v1gNS5qzq1ja60hOlcUk/kePj7YvlBZwccfljjUbEdAQg3kMivW17QgR+13izCFCXKNEdwCxyUGESOzdwyOC22bmMJphdXhxPwsCFCXKNEdwCxyUGESOzdwyOC22bmMqSPhX/zBwLGUS",
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
       "type": "message",
       "mode": "active",
-      "timestamp": 1626556804,
+      "timestamp": 1462629479859,
       "source": {
         "type": "user",
-        "userId": "Ucb19309b1c622a82540c8d16ae4caa75"
+        "userId": "U4af4980629..."
+      },
+      "message": {
+        "id": "325708",
+        "type": "file",
+        "fileName": "file.txt",
+        "fileSize": 2138
+      }
+    }
+  ]
+}
+{
+  "destination": "xxxxxxxxxx",
+  "events": [
+    {
+      "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
+      "type": "message",
+      "mode": "active",
+      "timestamp": 1462629479859,
+      "source": {
+        "type": "user",
+        "userId": "U4af4980629..."
       },
       "message": {
         "id": "325708",
@@ -189,154 +240,4 @@
       }
     }
   ]
-}
-{
-  "type": "carousel",
-  "contents": [
-    {
-      "type": "bubble",
-      "body": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "line://app/1626602314-Vrp0l7Ae?type=text&text=Your%20Text",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "wrap": true
-          }
-        ]
-      },
-      "footer": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "style": "primary",
-            "action": {
-              "type": "uri",
-              "label": "Go",
-              "uri": "https://example.com"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "bubble",
-      "body": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "line://app/1626602314-Vrp0l7Ae?type=text&text=Your%20Text",
-            "text": "Hello, World!",
-            "wrap": true
-          }
-        ]
-      },
-      "footer": {
-        "type": "box",
-        "layout": "horizontal",
-        "contents": [
-          {
-            "type": "button",
-            "style": "primary",
-            "action": {
-              "type": "uri",
-              "label": "Go",
-              "uri": "https://example.com"
-            }
-          }
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "bubble",
-  "styles": {
-    "header": {
-      "backgroundColor": "#ffaaaa"
-    },
-    "body": {
-      "backgroundColor": "#aaffaa"
-    },
-    "footer": {
-      "backgroundColor": "#aaaaff"
-    }
-  },
-  "header": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
-        "text": "header"
-      }
-    ]
-  },
-  "hero": {
-    "type": "image",
-    "url": "https://example.com/flex/images/image.jpg",
-    "size": "full",
-    "aspectRatio": "2:1"
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
-        "text": "body"
-      }
-    ]
-  },
-  "footer": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "line://app/1626602314-Vrp0l7Ae?type=profile",
-        "text": "footer"
-      }
-    ]
-  }
-}
-{
-  "type": "bubble",
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "spacing": "md",
-    "contents": [
-      {
-        "type": "button",
-        "style": "primary",
-        "action": {
-          "type": "uri",
-          "label": "Primary style button",
-          "uri": "https://example.com"
-        }
-      },
-      {
-        "type": "button",
-        "style": "secondary",
-        "action": {
-          "type": "uri",
-          "label": "Secondary style button",
-          "uri": "https://example.com"
-        }
-      },
-      {
-        "type": "button",
-        "style": "link",
-        "action": {
-          "type": "uri",
-          "label": "Link style button",
-          "uri": "https://example.com"
-        }
-      }
-    ]
-  }
 }
