@@ -1,0 +1,121 @@
+[
+  {
+    "FeatureName": "Halloween2018",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/halloween2018.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/halloween2018.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "Competition",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/competition.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/competition.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "Deepavali2018",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/deepavali2018.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/deepavali2018.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "Jackpot",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/jackpot.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/jackpot.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "LabourDay2017",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/labourday2017.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/labourday2017.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "AngBao2018",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/angbao2018.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/angbao2018.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "MiniGameAngbao",
+    "Version": 2,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/2/minigameangbao.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/2/minigameangbao.dat",
+    "IsStandAlone" : true
+  },
+  {
+    "FeatureName": "MiniGameHighRoller",
+    "Version": 2,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/2/minigamehighroller.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/2/minigamehighroller.dat",
+    "IsStandAlone" : true
+  },
+  {
+    "FeatureName": "Noel2018",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/noel2018.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/noel2018.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "Songkran2018",
+    "Version": 1,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/1/songkran2018.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/1/songkran2018.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "MotorNormal",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/motornormal.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/motornormal.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "MotorGolden",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/motorgolden.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/motorgolden.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "JeepNormal",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/jeepnormal.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/jeepnormal.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "JeepGolden",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/jeepgolden.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/jeepgolden.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "AirplaneNormal",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/airplanenormal.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/airplanenormal.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "AirplaneGolden",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/airplanegolden.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/airplanegolden.dat",
+    "IsStandAlone" : false
+  },
+  {
+    "FeatureName": "GrandJackpot",
+    "Version": 5,
+    "UrlAndroid": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/android/5/grandjackpot.dat",
+    "UrlIos": "http://dl.whfdckfzzdl.com/generallobby/minigamebundle/ios/5/grandjackpot.dat",
+    "IsStandAlone" : false
+  }
+]
