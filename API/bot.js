@@ -42,11 +42,3 @@
   "No Animation: ""
   "color": ""
 }
-
-
-
-
-
-
-
-
