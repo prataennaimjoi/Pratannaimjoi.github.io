@@ -10,7 +10,7 @@ function getP(){
         document.getElementById('textx').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('?type=text&text=Your%20Text')
+                text: atob('line://app/1626602314-Vrp0l7Ae?type=text&text=Your%20Text')
             }]).then(function () {
                 liff.closeWindow();
             });
@@ -18,7 +18,7 @@ function getP(){
         document.getElementById('imagex').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('?type=image&img=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/1605231174170/1000x563/168891.jpg')
+                text: atob('line://app/1626602314-Vrp0l7Ae?type=image&img=https://wallpaperstudio10.com/static/wpdb/wallpapers/1000x563/168891.jpg')
             }]).then(function () {
                 liff.closeWindow();
             });
@@ -26,7 +26,7 @@ function getP(){
         document.getElementById('videox').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('?type=video&ocu=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/PhotoGrid_Site_1628606080138.mp4/710/thumb-350-710132.png')
+                text: atob('line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://tinyurl.com/y8og3or5&piu=https://images6.alphacoders.com/710/thumb-350-710132.png')
             }]).then(function () {
                 liff.closeWindow();
             });
@@ -34,7 +34,7 @@ function getP(){
         document.getElementById('audiox').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('?type=audio&link=https://platelets.fun/public/sounds/music.mp3')
+                text: atob('line://app/1626602314-Vrp0l7Ae?type=audio&link=https://platelets.fun/public/sounds/music.mp3')
             }]).then(function () {
                 liff.closeWindow();
             });
@@ -42,7 +42,7 @@ function getP(){
         document.getElementById('stickerx').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('?type=sticker&stk=anim&sid=32128231&pkg=3099312')
+                text: atob('line://app/1626602314-Vrp0l7Ae?type=sticker&stk=anim&sid=32128231&pkg=3099312')
             }]).then(function () {
                 liff.closeWindow();
             });
