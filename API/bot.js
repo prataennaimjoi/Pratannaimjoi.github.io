@@ -21,7 +21,7 @@
 }
 {
   "type": "video",
-  "video": "line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://tinyurl.com/y8og3or5&piu=https://images6.alphacoders.com/710/thumb-350-710132.png",
+  "video": "line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/PhotoGrid_Site_1628606080138.mp4",
   "size": "xl",
   "type : "=> video ocu => video url piu => preview image",
   "color": ""
