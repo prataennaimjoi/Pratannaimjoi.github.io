@@ -14,7 +14,7 @@
 }
 {
   "type": "image",
-  "image": "line://app/1626602314-Vrp0l7Ae?type=image&img=https://wallpaperstudio10.com/static/wpdb/wallpapers/1000x563/168891.jpg",
+  "image": "line://app/1626602314-Vrp0l7Ae?type=image&img=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/1605231174170.jpg",
   "size": "xl",
   "type : "=> imageimg => Link (must be HTTPS)",
   "color": ""
