@@ -14,14 +14,14 @@
 }
 {
   "type": "image",
-  "image": "line://app/1626602314-Vrp0l7Ae?type=image&img=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/1605231174170.jpg",
+  "image": "line://app/1626602314-Vrp0l7Ae?type=image&img=https://wallpaperstudio10.com/static/wpdb/wallpapers/1000x563/168891.jpg",
   "size": "xl",
   "type : ""
   "color": ""
 }
 {
   "type": "video",
-  "video": "line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://github.com/prataennaimjoi/Pratannaimjoi.github.io/blob/main/API/PhotoGrid_Site_1628606080138.mp4",
+  "video": "line://app/1626602314-Vrp0l7Ae?type=video&ocu=https://tinyurl.com/y8og3or5&piu=https://images6.alphacoders.com/710/thumb-350-710132.png",
   "size": "xl",
   "type : ""
   "color": ""
