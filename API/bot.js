@@ -41,7 +41,7 @@ def Camera(to, text):
                "aspectMode": "cover",
                "action": {
                  "type": "uri",
-                 "uri": "https://line.me/ti/p/~ptatan1983"
+                 "uri": "line://app/1626602314-Vrp0l7Ae"
                  }
                },
                    "type": "bubble",
